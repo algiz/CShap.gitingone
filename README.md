@@ -1,0 +1,2 @@
+# CShap.gitingone
+C# .gitingone
